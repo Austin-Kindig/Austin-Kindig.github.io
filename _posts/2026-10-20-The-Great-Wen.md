@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Þe Great Wen"
+title: "The Great Wen"
 categories: poems
+tags: [Standard Habbie, agriculture, need, Our Lady]
 ---
 
 (A Standard Habbie, written in light of my uncle Rabbie- may God convert him.)
