@@ -1,0 +1,23 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a href="{{ '/' | relative_url }}" aria-hidden="true" tabindex="-1">
+      <img class="site-logo" src="{{ '/assets/images/header.png' | relative_url }}" alt="">
+    </a>
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    {%- if site.tagline %}
+    <p class="site-tagline">{{ site.tagline | escape }}
+      {%- if site.tagline_source %}<cite>{{ site.tagline_source | escape }}</cite>{% endif -%}
+    </p>
+    {%- endif %}
+    {%- if site.header_pages %}
+    <nav class="site-menu">
+      {%- for path in site.header_pages -%}
+        {%- assign menu_page = site.pages | where: "path", path | first -%}
+        {%- if menu_page.title %}
+        <a href="{{ menu_page.url | relative_url }}">{{ menu_page.title | escape }}</a>
+        {%- endif -%}
+      {%- endfor %}
+    </nav>
+    {%- endif %}
+  </div>
+</header>
