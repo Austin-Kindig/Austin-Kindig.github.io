@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Great Wen"
+title: "Þe Great Wen"
 categories: poems
 ---
 
