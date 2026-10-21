@@ -1,0 +1,88 @@
+---
+---
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=UnifrakturMaguntia&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap");
+
+// Theme settings (these replace minima's defaults)
+$base-font-family: "EB Garamond", Georgia, "Times New Roman", serif;
+$base-font-size: 19px;
+$base-line-height: 1.6;
+$text-color: #2b2620;
+$background-color: #faf7f0;
+$brand-color: #7a5a2f;
+$grey-color: #857b6d;
+$grey-color-light: #e6dfd2;
+
+@import "minima";
+
+$display-font: "Cormorant Garamond", Georgia, serif;
+$blackletter-font: "UnifrakturMaguntia", "Cormorant Garamond", Georgia, serif;
+
+// Header
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: 0;
+  padding: 2.5rem 0 2rem;
+  text-align: center;
+}
+.site-header .wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.site-logo {
+  width: 150px;
+  max-width: 50vw;
+  height: auto;
+  margin-bottom: 1rem;
+}
+.site-title,
+.site-title:visited {
+  float: none;
+  margin: 0;
+  font-family: $display-font;
+  font-weight: 600;
+  font-size: 2.8rem;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  color: $text-color;
+}
+.site-title:hover { text-decoration: none; }
+.site-tagline {
+  max-width: 30rem;
+  margin: 1rem auto 0;
+  font-family: $blackletter-font;
+  font-size: 1.35rem;
+  line-height: 1.45;
+  color: $text-color;
+}
+.site-tagline cite {
+  display: block;
+  font-family: $base-font-family;
+  color: $grey-color;
+  margin-top: 0.4rem;
+  font-style: normal;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.site-menu { margin-top: 1.25rem; }
+.site-menu a { margin: 0 0.8rem; color: $brand-color; }
+
+// Headings and post list
+h1, h2, h3, .post-title, .page-heading, .post-list-heading {
+  font-family: $display-font;
+  font-weight: 600;
+}
+.post-list-heading { font-size: 1.6rem; }
+.post-list .post-link { font-family: $display-font; font-size: 1.6rem; }
+.post-meta { font-style: italic; }
+
+// Footer
+.site-footer {
+  border-top: 1px solid $grey-color-light;
+  padding: 1.5rem 0;
+  text-align: center;
+  font-size: 0.9rem;
+  color: $grey-color;
+}
