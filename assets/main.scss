@@ -103,3 +103,15 @@ h1, h2, h3, .post-title, .page-heading, .post-list-heading {
   font-feature-settings: "ss02" 1;
   font-weight: normal;
 }
+
+// Post info: kind, tags, and short description
+.post-kind {
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+}
+.post-description {
+  margin: 0.25rem 0 0;
+  font-style: italic;
+  color: $grey-color;
+}
+.post-header .post-description { font-size: 1.1rem; }
