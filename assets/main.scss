@@ -95,3 +95,11 @@ h1, h2, h3, .post-title, .page-heading, .post-list-heading {
   font-size: 0.9rem;
   color: $grey-color;
 }
+
+// Post titles in the insular hand
+.post-title,
+.post-list .post-link {
+  font-family: $insular-font;
+  font-feature-settings: "ss02" 1;
+  font-weight: normal;
+}
