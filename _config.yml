@@ -1,0 +1,5 @@
+title: He That Eareth
+description: Poems and essays
+theme: minima
+kramdown:
+  hard_wrap: true
