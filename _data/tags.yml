@@ -1,0 +1,42 @@
+# Tag registry for He That Eareth.
+#
+# Files in _data are used during the build but never published as pages,
+# so this list does not appear on the site. The repository itself is public,
+# though, so anyone browsing it on GitHub can read this file.
+#
+# Before tagging a new post, reuse a tag from this list with the exact same
+# spelling and capitalization, so posts on the same subject group together.
+# When you add a new tag to a post, add it here too.
+
+categories:
+  essays: Prose pieces
+  poems: Verse
+
+tags:
+  - name: Church Fathers
+    note: Draws heavily on patristic sources
+    posts: [entre-ave-e-eva]
+
+  - name: fasting
+    note: Fasting and abstinence
+    posts: [entre-ave-e-eva]
+
+  - name: gluttony
+    note: Food, appetite, and the table
+    posts: [entre-ave-e-eva]
+
+  - name: Our Lady
+    note: The Blessed Virgin Mary
+    posts: [entre-ave-e-eva, the-great-wen]
+
+  - name: agriculture
+    note: Tillage, the land, and farming
+    posts: [the-great-wen]
+
+  - name: need
+    note: Need versus want, and what is truly needful
+    posts: [the-great-wen]
+
+  - name: Standard Habbie
+    note: Poems written in the Burns stanza
+    posts: [the-great-wen]
