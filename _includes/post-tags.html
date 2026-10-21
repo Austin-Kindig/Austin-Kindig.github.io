@@ -1,0 +1,4 @@
+{%- assign kind = include.post.categories | first -%}
+{%- assign tags = include.post.tags -%}
+{%- if kind %} &middot; <span class="post-kind">{{ kind | capitalize }}</span>{% endif -%}
+{%- if tags.size > 0 %} &middot; <span class="post-tags">{{ tags | join: ", " }}</span>{% endif -%}
