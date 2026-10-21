@@ -6,18 +6,18 @@ categories: poems
 tags: [Our Lady, acrostic]
 ---
 
-terrible as belly-bound whisper devouring dust-bound bowels ‘neath the everlasting eastern flame!
-terrible as raven borne with no footing - endless mire churning, and brine boiling!
-terrible as fair flesh folded into black billows o’ stench-ash blooming!
+Terrible as belly-bound whisper devouring dust-bound bowels ‘neath the everlasting eastern flame!
+Terrible as raven borne with no footing - endless mire churning, and brine boiling!
+Terrible as fair flesh folded into black billows o’ stench-ash blooming!
 
-terrible as towering glass walls pouring - proud wheels plunged and sand-sworn hands wrung!
-terrible as heavy hands forgetting harp songs, belaid on boughs - foreign muses!
-terrible as creaking, cracking shadows beneath Maker beaten - blood-stained rood!
+Terrible as towering glass walls pouring - proud wheels plunged and sand-sworn hands wrung!
+Terrible as heavy hands forgetting harp songs, belaid on boughs - foreign muses!
+Terrible as creaking, cracking shadows beneath Maker beaten - blood-stained rood!
 
-Magnificent streams of brilliance bounding;
-Artful caressing of care-ful creatures;
-Right-wise in all orientations, ordinate;
-Industrious in all woman-craft wiles;
-Argent assent of all deignings divine:
+**M**agnificent streams of brilliance bounding;
+**A**rtful caressing of care-ful creatures;
+**R**ight-wise in all orientations, ordinate;
+**I**ndustrious in all woman-craft wiles;
+**A**rgent assent of all deignings divine:
 
 Terrible as horns howling, bowls brimming, souls soaring!
