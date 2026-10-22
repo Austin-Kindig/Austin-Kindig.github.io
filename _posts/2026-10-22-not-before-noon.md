@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Not Before Noon"
-date: 2026-10-22 21:00:00 -0400
+date: 2026-10-22 08:00:00 -0400
 categories: essays
 tags: [fasting, etymology, Divine Office]
 ---
