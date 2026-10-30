@@ -5,6 +5,9 @@ categories: essays
 tags: [hope, Providence, agriculture, technique, imagination, family]
 ---
 
+> "All of us, without exception, are really able only to squander the grace of God and are really only unnecessary servants."
+> St. Maximilian Kolbe
+
 *He that eareth, shulde eare upon hope.*
 
 These words of St. Paul reveal the truth of our experience in this world: that all that is, is from God, and that all increase in the field is from God. Even the most mechanistically minded farmer must admit, in the depths of honesty, that nobody can ensure a successful crop. Every farmer hopes for the sun, hopes for the rain, and hopes for the more mystical forces of our natural world to play in concert to bring a harvest. Deep down, the seeds of hope must live, even if we would like to crowd them out, cover them in weed fabric, and never need to pull their thorns from our immaculate fields, so finely dressed with the latest version of factory chemicals.
