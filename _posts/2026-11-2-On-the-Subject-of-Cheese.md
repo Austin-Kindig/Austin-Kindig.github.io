@@ -10,7 +10,7 @@ tags: [cheese, dairy, food, animals, stewardship, Imago Dei, creation, rape]
 Boys be good for fattened food:  
 No breasts that swell in them, nor uterine physique.  
 Robbed from breast at behest of those in mood  
-for fattened food.
+For fattened food.
 
 This thing is rare, or medium.  
 That thing is quite unique.  
@@ -25,7 +25,7 @@ In here, within, we’d think them cuckolds.
 Anyways, taking that gilded cream.  
 (At least it once was caressed by fingers’ technique.)  
 Technique now set to manage screams  
-of putrid lives in squalor’s steam.
+Of putrid lives in squalor’s steam.
 
 Gnashing teeth of sudden grief,  
 munching corn, not blade, quite bleak.  
@@ -44,5 +44,5 @@ Viscera and bones rot to smouldering embers.
 
 But, oh! from the empyrean streaming, a jasper-and-jacinth gleaming!  
 The Bird that brooded the boundless waters, with seraph-coals consuming the shambles’ slaughters,  
-and the calf back to breast, and the kine to the blade, and man’s lion-heart meek:  
-renewing!
+And the calf back to breast, and the kine to the blade, and man’s lion-heart meek:  
+Renewing!
