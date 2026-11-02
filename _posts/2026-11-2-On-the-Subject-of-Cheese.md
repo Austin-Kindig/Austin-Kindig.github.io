@@ -2,7 +2,7 @@
 layout: post
 title: "On the Subject of Cheese"
 categories: poems
-tags: [cheese, Imago Dei, food, animals, stewardship, creation]
+tags: [cheese, dairy, food, animals, stewardship, creation, rape]
 ---
 
 *(or how I came to understand the vegans’ cause)*
@@ -27,10 +27,10 @@ Anyways, taking that gilded cream.
 Technique now set to manage screams  
 of putrid lives in squalor’s steam.
 
-Knashing teeth of sudden grief,  
-muching corn, not blade, quite bleak.  
+Gnashing teeth of sudden grief,  
+munching corn, not blade, quite bleak.  
 For fatness all ‘round, and unto kine-folk-fiefs:  
-Fatened, fatness, fatening thieves!
+Fattened, fatness, fattening thieves!
 
 Behold, I am Gilbert, at the plate.  
 Imago Dei, or steward? Speak!  
@@ -42,7 +42,7 @@ Behold, Mother Earth, from warring members;
 Spears, like stuck pigs, stabbed into your babies’ members;  
 Viscera and bones rot to smouldering embers.
 
-But, oh, is coming fire gleaming  
-and wings of fiery bird consuming  
-a recreated set of forms by such as did at first into them speak:  
+But, oh! from the empyrean streaming, a jasper-and-jacinth gleaming!  
+The Bird that brooded the boundless waters, with seraph-coals consuming the shambles’ slaughters,  
+and the calf back to breast, and the kine to the blade, and man’s lion-heart meek:  
 renewing!
