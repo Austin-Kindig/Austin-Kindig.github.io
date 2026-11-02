@@ -39,7 +39,7 @@ By fleshly considerations ate.
 
 Behold, Mother Earth, from warring members;  
 “A law unto… groaning” approach the peak!  
-Spears, like stuck pigs, stabbed into your babies’ members;  
+Spears, like stuck pigs, stabbed into your babies’ tenders;  
 Viscera and bones rot to smouldering embers.
 
 But, oh! from the empyrean streaming, a jasper-and-jacinth gleaming!  
