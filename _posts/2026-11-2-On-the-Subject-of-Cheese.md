@@ -2,7 +2,7 @@
 layout: post
 title: "On the Subject of Cheese"
 categories: poems
-tags: [cheese, dairy, food, animals, stewardship, creation, rape]
+tags: [cheese, dairy, food, animals, stewardship, Imago Dei, creation, rape]
 ---
 
 *(or how I came to understand the vegans’ cause)*
