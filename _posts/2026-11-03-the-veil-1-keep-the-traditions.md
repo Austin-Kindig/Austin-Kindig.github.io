@@ -10,9 +10,11 @@ tags: [veil, 1 Corinthians, tradition, Church Fathers]
 
 Since our *transitus* from the Garden, the nature and expression of humanity has been on a long variegated corridor of culture and custom. In the tower of Babel, we can see this intensified as the ever-evolving tapestry of tongues unravels to this day. As with Babel, these cultural differences have often amounted, due to the nature of variant human expression, to wedges and sources of contention within Adam. One does not need to look into the past at all to see wars, genocides, cultural contentions (or sub-cultural), and our current lexicon is replete with terms like 'racism', 'prejudice', and the like.
 
-Yet, Christ came to undo the tangled mess we have woven with the help of God's abandonment of ourselves to our own devices and corrupted wills. The restoration is upon us, and has been working to roll back the clock towards Eden for 2,000 years. We can hear the echo of an ancient disorder: "he shall rule over you." Where there was once a hierarchy of mutual love, as in the Trinity, there has since been the striving of the wife against her husband and the husband against his wife. Both sides have not been clean, as men contracted several marriages, and treated their wives as slaves for their own aggrandizement and pleasure, and as women have sought to shake off the mantle of the husband, either becoming independent, or else dividing the one body of the household into a conjoined twin-monster. This fundamental restoration began with Our Lord and his Mother, the New Adam and Eve, and we see the order of the self-emptying servant-lord, giving all of himself to his Beloved, and the perfect handmaid, with her perpetual *Fiat*.
+Yet, Christ came to undo the tangled mess we have woven with the help of God's abandonment of ourselves to our own devices and corrupted wills. The restoration is upon us, and has been working to roll back the clock towards Eden for 2,000 years. 
 
-It is to this image we can look for the Christian restorative redefinition of the man-woman relationship of the Eschaton, when Adam can again proclaim with joy 'truly this is flesh of my flesh and bone of my bone,' and Eve can delight in the service of her husband, trusting that his care for her well being is greater than hers could be for even herself.
+We can hear the echo of an ancient disorder: "he shall rule over you." Where there was once a hierarchy of mutual love, as in the Trinity, there has since been the striving of the wife against her husband and the husband against his wife. Neither side has been clean, as men contracted several marriages, and treated their wives as slaves for their own aggrandizement and pleasure, and as women have sought to shake off the mantle of the husband, either becoming independent, or else dividing the one body of the household into a conjoined twin-monster. This fundamental restoration began with Our Lord and his Mother, the New Adam and Eve, and we see the order of the self-emptying servant-lord, giving all of himself to his Beloved, and the perfect handmaid, with her perpetual *Fiat*.
+
+It is to this image we can look for the Christian restorative redefinition of the man-woman relationship of the Eschaton, when Adam can again proclaim with joy, 'truly this is flesh of my flesh and bone of my bone,' and Eve can delight in the service of her husband, trusting that his care for her well-being is greater than hers could be for even herself.
 
 Since the birth of the Church from the side of our Lord, there has been a struggle for the Church Militant to manifest victory over the dominion of Satan until our Lord comes again. This struggle being fought in the hearts of men has led to both periods of general prosperity for Christendom as well as periods of desolation in the eyes of the World. Knowing that "in the end [our Lady's] heart will triumph" and that our Lord has, by his death and resurrection, already defeated the host of Hell, we fight on for the continued glorification of the Father and the salvation of souls.
 
@@ -30,7 +32,7 @@ In looking at the issue of the veil in our modern-day context it seems to me tha
 
 It is through these different lenses that I will consider the question in this set of essays, mainly taken from Holy Writ and the Fathers, adding to them personal conjecture, and a few odds and ends, to arrive at something of a summation in the end. The conclusion in one sentence would be something like this: *That the veil **must** be worn during times of prayer, most especially during the Sacred Liturgy, and outside of these contexts it is called for as well.*
 
-St. Paul himself, under the inspiration of the Holy Ghost, lays out his argument by way of a progressive set of proofs, rendering a full set of mail against the devil's temptations toward a contrary custom. This set of essays will follow the pattern that St. Paul has thus laid out. Toward the end of this series, a treatment will be made of the question of perpetual veiling, the end of which is to encourage all Christian families to participate in the veil.
+St. Paul himself, under the inspiration of the Holy Ghost, lays out his argument by way of a progressive set of proofs, rendering a full set of mail against the devil's temptations towards a contrary custom. This set of essays will follow the pattern that St. Paul has thus laid out. Towards the end of this series, a treatment will be made of the question of perpetual veiling, the end of which is to encourage all Christian families to participate in the veil.
 
 ## St. Paul's Five Reasons
 
@@ -41,28 +43,28 @@ Hear the words of the great modern commentator, Cornelius a Lapide:
 
 Unpacking this we see a number of key items:
 
-1. He begins here establishing his authority that he has received from God, "as I also of Christ."
-2. He continues with an enumeration of the hierarchy God, Christ, Man, Woman.
+1. He begins here, establishing his authority that he has received from God, "as I also of Christ."
+2. He continues with an enumeration of the hierarchy: God, Christ, Man, Woman.
 3. He then states that man praying covered disgraces his head (Christ) and that woman praying uncovered disgraces her head (man).
 4. He goes on to say that woman, if she will not cover her head, might as well just shave her head.
-5. From this he draws the conclusion that if it be shameful to be bald for her, she must cover her head.
+5. From this, he draws the conclusion that if it be shameful to be bald for her, she must cover her head.
 6. He then recalls Genesis to show that it is God who is glorified in the showing of the man's head, because he made man, while man is glorified in the woman's head because she was made from his flesh.
-7. This he connects to the supernatural realities by mentioning that it is on account of the angels a woman ought to veil.
-8. He points out that woman was made as a help mate for man, not man for woman.
-9. Not to cause division between the sexes he points out that we must be united: "For as the woman is of the man, so also the man by the woman: but all things of God."
-10. He then makes an experiential appeal, "Neither doth nature itself teach you," that the woman's head must be covered because even nature provides a kind natural cover.
+7. This he connects to the supernatural realities by mentioning that it is on account of the angels that a woman ought to veil.
+8. He points out that woman was made as a helpmate for man, not man for woman.
+9. Not to cause division between the sexes, he points out that we must be united: "For as the woman is of the man, so also the man by the woman: but all things of God."
+10. He then makes an experiential appeal, "Neither doth nature itself teach you," that the woman's head must be covered because even nature provides a kind of natural cover.
 11. Lastly, he says that if anyone disagrees on this issue, there is no such custom in the Church.
 
 His argument, so distilled, reveals the leonine nature of the man, plumbing the depths of appeal to the point of shaming contenders for their unreasonableness (neither doth nature teach) and finally having recourse to apprehend all opponents under the catch-all of obedience to Church common life (no such custom).
 
-We can see somewhat hidden in a Lapide's mapping that of the contentions of custom in the Corinthian Church. For context, the heathen women of Corinth held a custom of being unveiled, with hair neatly tied up or braided (Thompson, 1988). This was a mark of dignity and grace in their society, and the rule of worldly custom was brought into conflict with Christian custom. Interestingly, we can see that St. Paul's argument is predicated on the supposition that the Church's practice ought to be observed over and above that of the prevailing social custom, which custom would ordinarily constitute the rule of law. Indeed, St. Thomas teaches that "custom has the force of a law, abolishes law, and is the interpreter of law," yet he adds that "no custom can prevail over the Divine or natural laws" (Aquinas, Summa Theologiae I-II, q. 97, a. 3, corpus and ad 1).
+We can see somewhat hidden in a Lapide's mapping the contentions of custom in the Corinthian Church. For context, the heathen women of Corinth held a custom of being unveiled, with hair neatly tied up or braided (Thompson, 1988). This was a mark of dignity and grace in their society, and the rule of worldly custom was brought into conflict with Christian custom. Interestingly, we can see that St. Paul's argument is predicated on the supposition that the Church's practice ought to be observed over and above that of the prevailing social custom, which custom would ordinarily constitute the rule of law. Indeed, St. Thomas teaches that "custom has the force of a law, abolishes law, and is the interpreter of law," yet he adds that "no custom can prevail over the Divine or natural laws" (Aquinas, Summa Theologiae I-II, q. 97, a. 3, corpus and ad 1).
 
 I think this reveals the insidiousness of the devil's trickery, who lays out many barriers to right living, obscuring goodness by making it look strange, weird, bad. This elucidates why St. Paul needs to offer such a thorough treatment, to shore up all sides of the question against the buffets of prevailing winds.
 
 ## "Be Ye Followers of Me"
 
 > (1) Be ye followers of me, as I also of Christ. (2) And I praise you brethren, that in all things you be mindful of me: and as I have delivered unto you, you keep my precepts.
-> (1 Cor 11:1-2, Rheims 1582, spelling modernized; margin at "precepts": "In the Greek, Traditions")
+> (1 Cor 11:1-2, Rheims 1582; margin at "precepts": "In the Greek, Traditions")
 
 Here, St. Paul lays a foundation for his argument, before proceeding to build the edifice proper, compelling the Christian people to obey him as he obeys Christ, identifying his precepts as those of the Deposit which has its source in God. This foundation is sure, and therefore the edifice is sure, and, wrapping up his argument in an appeal to the common life of the Church, he therefore expels all resistance from both the beginning and the end.
 
