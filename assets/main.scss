@@ -150,3 +150,10 @@ h1, h2, h3, .post-title, .page-heading, .post-list-heading {
   font-style: italic;
   color: $grey-color;
 }
+// Block quotes: undo minima's tight letter-spacing
+blockquote {
+  letter-spacing: normal;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #4a4238;
+}
